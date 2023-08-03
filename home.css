@@ -1,0 +1,24 @@
+body{
+	background-image:url("Kenya.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+*{color:white;
+padding:5px;}
+.navbar{
+	float:right;
+	list-style-type:none;
+}
+.navbar li{
+	display:inline-block;
+	padding:10px;
+}
+.button{
+	text-align:right;
+	border-radius:5px;	
+}
+.button:hover{
+	border:1px solid white;
+}
+
+.heading{color:black;}
